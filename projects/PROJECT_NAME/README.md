@@ -2,7 +2,7 @@
 name: "John Ross"
 slack_handle: "@John Ross"
 github_handle: "@rossj22455 "
-tutorial: # [Link to the tutorial if you used one](https://www.youtube.com/watch?v=_3jFsNffzxQ)
+tutorial: # https://www.youtube.com/watch?v=_3jFsNffzxQ
 ---
 
 # YOUR PROJECT NAME
